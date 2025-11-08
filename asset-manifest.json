@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dsox92-hash/Informe_Interactivo.git/static/css/main.279f9b45.css",
+    "main.js": "/dsox92-hash/Informe_Interactivo.git/static/js/main.f43a9170.js",
+    "static/media/logo promedio.jpg": "/dsox92-hash/Informe_Interactivo.git/static/media/logo promedio.3c85bfa9acd920708287.jpg",
+    "index.html": "/dsox92-hash/Informe_Interactivo.git/index.html",
+    "main.279f9b45.css.map": "/dsox92-hash/Informe_Interactivo.git/static/css/main.279f9b45.css.map",
+    "main.f43a9170.js.map": "/dsox92-hash/Informe_Interactivo.git/static/js/main.f43a9170.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.279f9b45.css",
+    "static/js/main.f43a9170.js"
+  ]
+}
