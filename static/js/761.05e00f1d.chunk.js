@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinforme_interactivo=self.webpackChunkinforme_interactivo||[]).push([[761],{6761:(e,r,i)=>{i.r(r),i.d(r,{default:()=>s});i(5043);var l=i(2343),n=i(579);const s=e=>{let{onBack:r}=e;return(0,n.jsxs)("div",{className:"mobile-form",style:{padding:16},children:[(0,n.jsx)("h3",{children:"Formulario m\xf3vil"}),(0,n.jsx)("p",{children:"Versi\xf3n m\xf3vil del formulario PWA."}),(0,n.jsx)(l.Ay,{type:"primary",onClick:r,children:"Volver"})]})}}}]);
+//# sourceMappingURL=761.05e00f1d.chunk.js.map
