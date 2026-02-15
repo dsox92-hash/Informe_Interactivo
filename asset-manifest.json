@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Informe_Interactivo/static/css/main.38789927.css",
-    "main.js": "/Informe_Interactivo/static/js/main.f5b9e38e.js",
+    "main.js": "/Informe_Interactivo/static/js/main.d40ecf61.js",
     "static/js/761.05e00f1d.chunk.js": "/Informe_Interactivo/static/js/761.05e00f1d.chunk.js",
     "static/media/logo promedio.jpg": "/Informe_Interactivo/static/media/logo promedio.3c85bfa9acd920708287.jpg",
     "index.html": "/Informe_Interactivo/index.html",
     "main.38789927.css.map": "/Informe_Interactivo/static/css/main.38789927.css.map",
-    "main.f5b9e38e.js.map": "/Informe_Interactivo/static/js/main.f5b9e38e.js.map",
+    "main.d40ecf61.js.map": "/Informe_Interactivo/static/js/main.d40ecf61.js.map",
     "761.05e00f1d.chunk.js.map": "/Informe_Interactivo/static/js/761.05e00f1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38789927.css",
-    "static/js/main.f5b9e38e.js"
+    "static/js/main.d40ecf61.js"
   ]
 }
