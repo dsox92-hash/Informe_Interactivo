@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Informe_Interactivo/static/css/main.38789927.css",
-    "main.js": "/Informe_Interactivo/static/js/main.14aeed3b.js",
+    "main.js": "/Informe_Interactivo/static/js/main.c3a924a6.js",
     "static/media/logo promedio.jpg": "/Informe_Interactivo/static/media/logo promedio.3c85bfa9acd920708287.jpg",
     "index.html": "/Informe_Interactivo/index.html",
     "main.38789927.css.map": "/Informe_Interactivo/static/css/main.38789927.css.map",
-    "main.14aeed3b.js.map": "/Informe_Interactivo/static/js/main.14aeed3b.js.map"
+    "main.c3a924a6.js.map": "/Informe_Interactivo/static/js/main.c3a924a6.js.map"
   },
   "entrypoints": [
     "static/css/main.38789927.css",
-    "static/js/main.14aeed3b.js"
+    "static/js/main.c3a924a6.js"
   ]
 }
